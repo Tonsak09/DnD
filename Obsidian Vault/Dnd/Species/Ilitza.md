@@ -1,0 +1,4 @@
+# Description
+Slimy jelly-like goop blob entities who seek nothing more than pleasure. They may travel naked in a blob, a cylinder or mobile container of a more fashionable shape, they may enter a robotic shell, change color, or grow musculature. It is all in the pursuit of pleasure and fashion. Ilitza can barely tolerate any other individual. Only when an Ilitza finds something that agrees with them on absolutely everything do they enjoy each other’s company. Ilitza are obsessed with all things sexual despite their antisocial tendencies. It is easy to offend an Ilitza, though there’s no way to know if they’ll break down crying, or gain homicidal tendencies. They often find pleasure in other’s pain. Ilitza sell slaves. If they manage to trick someone into hurting themselves, they will be as giddy as a schoolchild.
+
+---

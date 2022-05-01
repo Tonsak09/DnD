@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "c7c7bb5dd0e922f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb365188d0fbe556",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "875d089bb3a56516",
+    "type": "split",
+    "children": [
+      {
+        "id": "08d3f2d90715def7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "824f1b2d1a8e566b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0c59b6826451d66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "toda",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bed9c48e098cc117",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d670c725e68d90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49d2e9da826de51b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb365188d0fbe556",
+  "lastOpenFiles": [
+    "Dnd/NPC's/Bolden the Grey I.md",
+    "Dnd/NPC's/Caducius.md",
+    "Dnd/NPC's/CR12.md",
+    "Dnd/NPC's/Dan.md",
+    "Dnd/NPC's/SRAD.md",
+    "Dnd/Player Info/Chaff.md",
+    "Dnd/Player Info/Dez.md",
+    "Dnd/Player Info/Mep.md",
+    "Dnd/Player Info/Skeld.md",
+    "Dnd/Politics/Empire Climb.md"
+  ]
+}

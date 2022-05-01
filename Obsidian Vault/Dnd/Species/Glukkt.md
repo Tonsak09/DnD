@@ -1,0 +1,4 @@
+# Description
+Traditionally portly beings with six slender dexterous arms. Their ringed neck gives way to a hidden mouth just below their eyes in the space a human might place a nose. Their ears hang over the sides of their head. These beings are vicious merchants who will always ask for the highest price. Their business ventures appear on the surface as humble or ramshackle, but Glukkt schemes run deep. They encourage underhanded business practices, and will buy and sell anything short of people. Some Glukkt attempt high risk business practices and fail miserably, others who succeed tip the scales of the entire galactic market. Glukkt who are not born with aptitude or business learn fast. Those who don’t get jobs as garbage men. Some advice. Never leave a Glukkt station without buying something, pay your debts and they’ll respect you as much as a brother, never visit a Glukkt hospital. They’ll sell your medscan and, well…
+
+---
